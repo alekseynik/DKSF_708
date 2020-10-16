@@ -9,6 +9,8 @@ TEST123213213123
 123213213213213
 This is the buildsystem for the OpenWrt Linux distribution.
 
+This is my comment
+
 Note:
 after cloning the repository, first of all, run command: 
 
